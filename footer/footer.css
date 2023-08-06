@@ -1,0 +1,43 @@
+.user-footer{
+  color: #caced1 !important;
+  text-decoration: none;
+  font-size: 25px;
+  background-color: #0e4653;
+  padding: 20px;
+}
+
+.mail{
+  color: #caced1 !important;
+  text-decoration: none;
+  font-size: 25px; 
+}
+
+@media screen and (max-width: 545px) {
+  .videoplyr {
+      width: 400px
+  }
+  }
+
+  @media screen and (max-width: 430px) {
+  .videoplyr {
+      width: 350px
+  }
+  }
+
+  @media screen and (max-width: 360px) {
+  .videoplyr {
+      width: 300px
+  }
+  }
+
+  @media screen and (max-width: 310px) {
+  .videoplyr {
+      width: 275px
+  }
+  }
+
+  @media screen and (max-width: 290px) {
+  .videoplyr {
+      width: 225px
+  }
+  }

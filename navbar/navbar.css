@@ -1,0 +1,9 @@
+/* Giving blodness to the li that was clicked */
+.bold{
+    color: white;
+    font-weight: bolder;
+}
+
+#usernavbar{
+    background-color: #c99c9c !important;
+}
